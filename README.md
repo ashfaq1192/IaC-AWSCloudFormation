@@ -153,7 +153,9 @@ This is a learning and portfolio project, so some choices favour simplicity:
 
 ## Author
 
-**Muhammad Ashfaq**. Building cloud and automation skills, currently preparing for the AWS Certified Cloud Practitioner exam.
+**Muhammad Ashfaq**. 
+AWS Certified Cloud Practitioner (CLF-C02)
+AWS Certified AI Practitioner (AIF-C01)
 
 ## License
 
